@@ -10,3 +10,9 @@ Documentation on how to make and load your custom map into Among Us!
 ### Unity Project setup
 - You can create a new project through the editor or Unity Hub if you have it installed. (ensure your editor version is v2022.3.44f1).
 ## Introduction
+- Making Among Us maps from scratch without a tool like LevelImposter is hard, If you arent willing to take the difficulty, It's best if you use something like LI.
+- This guide will exactly explain every aspect of making a Custom Map, from the Prequisites, to art and to Implementation in mod.
+- So you better,
+### Pay Attention!!!
+- You can view the map art guide over on the Art Guide.
+- The mod implementation is split into two as in Unity side and Code side.
