@@ -2,6 +2,7 @@
 Documentation on how to make and load your custom map into Among Us!
 
 ## Setting up the Environment
+- Install the .NET SDK.
 - Install an IDE like Jetbrains Rider, VS Code or Visual Stdio ( This tutorial is made with Jetbrains Rider in mind ).
 - Install a Unity Editor ( specifically get v2022.3.44f1, no newer, no older ), Unity Hub is optional but adds some features.
 ### Jetbrains Rider setup
