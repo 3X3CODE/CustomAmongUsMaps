@@ -4,7 +4,7 @@
 - This guide was made by taking the Submerged Among Us map's Unity Project as an example. 
 
 # Prerequisites
-- You will need the Among Us base classes from the game to add to gameobjects, download the [AssemblyCSharp](./Assembly-CSharp.dll) file and place it in `Assets/Plugins`.
+- You will need the Among Us base classes from the game to add to gameobjects, download the AssemblyCSharp file and place it in `Assets/Plugins`.
 - Download the required tools listed below.
 
 # Tools
@@ -44,3 +44,25 @@ Assets/
 ```
 
 - Now let's do a deep-dive on each of them
+>[!NOTE]
+>Click the links below to jump to wherever you desire!
+
+<div align="center">
+[Maps](#maps) &emsp;
+[Minigames](#minigames) &emsp;
+[HudMap](#hud-map) &emsp;
+[ExileCutscene](#exile-cutscene)
+</div>
+
+<div align="center">
+<h1>Maps</h1>
+</div>
+<div align="center">
+<h1>Minigames</h1>
+</div>
+<div align="center">
+<h1>Hud Map</h1>
+</div>
+<div align="center">
+<h1>Exile Cutscene</h1>
+</div>
