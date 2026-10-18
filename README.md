@@ -9,7 +9,7 @@ Documentation on how to make and load your custom map into Among Us!
 - After installing and opening Rider for the first time, it may ask for a license which you can pick a license you prefer.
 - Create a new Class Library project using net 6.0 from SDK 6.0 (install the dotnet sdk if you havent ).
 ### Unity Project setup
-- You can create a new project through the editor or Unity Hub if you have it installed. (ensure your editor version is v2022.3.44f1).
+- You can create a new BRP(Built in Render Pipeline) 3D project through the editor or Unity Hub if you have it installed. (ensure your editor version is v2022.3.44f1).
 ## Introduction
 - Making Among Us maps from scratch without a tool like LevelImposter is hard, If you arent willing to take the difficulty, It's best if you use something like LI.
 - This guide will exactly explain every aspect of making a Custom Map, from the Prequisites, to art and to Implementation in mod.
