@@ -1,5 +1,5 @@
 <div align="center">
-  # CustomAmongUsMaps
+  <b>CustomAmongUsMaps</b>
   
   Documentation on how to make and load your custom map into Among Us!
 </div> 
