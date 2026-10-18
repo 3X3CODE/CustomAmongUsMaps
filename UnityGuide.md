@@ -3,4 +3,5 @@
 - This guide was made by taking the Submerged Among Us map's Unity Project as an example. 
 
 # Prerequisites
-- You will need the Among Us base classes from the game to add to gameobjects.
+- You will need the Among Us base classes from the game to add to gameobjects, download the AssemblyCSharp file and place it in `Assets/Plugins`.
+
