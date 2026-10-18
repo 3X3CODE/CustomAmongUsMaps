@@ -18,3 +18,5 @@ Documentation on how to make and load your custom map into Among Us!
 - You can view the map art guide over on the Art Guide.
 - The mod implementation is split into two as in Unity side and Code side.
 - The only part i cant help you with is the map layout. Get together with some of your friends, or showcase your ideas to a community. With enough feedback you''ll be done in no time. This is the most important part since if you start making assets and you later find out the layout is bad, the hard work will be for nothing. So take your time!
+
+This tutorial wouldn't of been possible without [Submerged](https://github.com/SubmergedAmongUs/Submerged), so check it out
