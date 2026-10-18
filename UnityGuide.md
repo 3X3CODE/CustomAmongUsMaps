@@ -89,6 +89,21 @@ Textures :- All sprites/spritesheets of the map
 ## Creating the Map Prefab
 
 - The Map Prefab is the **most important** part of a Custom Map and the largest.
+- The Map Prefab is instantiated by the game once you enter the game.
+
+- Even here, having a good gameobject structure is a must, feel free to create additional objects to further organize items.
+
+<h3>Rooms</h3>
+
+- Room objects consist of the following, 
+1. Background
+2. Consoles
+3. Animations
+
+<h3>Colliders</h3>
+
+- Colliders are a significant part of a custom map.
+
 <div align="center">
 <h1>Minigames</h1>
 </div>
