@@ -1,4 +1,5 @@
 
+
 # Introduction
 - This guide assumes you are familiar with the 2022 Unity Editor, if not return once you are.
 - This guide was made by taking the Submerged Among Us map's Unity Project as an example. 
@@ -59,6 +60,35 @@ Assets/
 <div align="center">
 <h1>Maps</h1>
 </div>
+
+- This section will be focusing on the main map itself.
+
+## Folder Structure and Setup
+
+- You can further create more subfolders 
+eg:
+```text
+Assets/
+└── MyCustomMap/
+    └── Map
+        ├── Animations
+        ├── Doors
+        ├── Vents
+        └──Textures
+```
+
+Animations :- map animations
+Doors :- Horizontal and Vertical door prefabs
+Vents:- Standard vent prefab and other configurations if any
+Textures :- All sprites/spritesheets of the map
+
+- It is recommended to have the .anim files in the `Animations` folder and the frames for the animations under a subfolder in the `Textures` folder.
+
+- Make sure to keep things organized to prevent a hassle later on.
+
+## Creating the Map Prefab
+
+- The Map Prefab is the **most important** part of a Custom Map and the largest.
 <div align="center">
 <h1>Minigames</h1>
 </div>
