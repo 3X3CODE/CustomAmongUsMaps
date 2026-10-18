@@ -48,10 +48,12 @@ Assets/
 >Click the links below to jump to wherever you desire!
 
 <div align="center">
+    
 [Maps](#maps) &emsp;
 [Minigames](#minigames) &emsp;
 [HudMap](#hud-map) &emsp;
 [ExileCutscene](#exile-cutscene)
+
 </div>
 
 <div align="center">
