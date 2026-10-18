@@ -77,10 +77,10 @@ Assets/
         └──Textures
 ```
 
-Animations :- map animations
-Doors :- Horizontal and Vertical door prefabs
-Vents:- Standard vent prefab and other configurations if any
-Textures :- All sprites/spritesheets of the map
+Animations :- map animations <br>
+Doors :- Horizontal and Vertical door prefabs <br>
+Vents:- Standard vent prefab and other configurations if any <br>
+Textures :- All sprites/spritesheets of the map 
 
 - It is recommended to have the .anim files in the `Animations` folder and the frames for the animations under a subfolder in the `Textures` folder.
 
