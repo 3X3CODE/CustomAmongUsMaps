@@ -24,3 +24,5 @@
 * low saturated blue/green/red - steel/metal
 * The BIGGEST rule here when drawing objects in among us, is to NEVER make the objects too realistic. The more details you add to an object to make it similar to a real life thing, it looks unnatural to the among us artstyle and takes alot more for the user to process. Keep stuff simple!
 
+# Export
+* You assets should be seperated as static backgrounds with no interaction(blank areas for doors), animated objects in frames(should be excluded from the static background), interactable objects(consoles, cameras etc), doors(door open static image, door closed static image, door opening animation frames, door closing animation frames; should be repeated for both Horizontal and Vertical doors), and any other functioning object you'd like to implement in unity.
